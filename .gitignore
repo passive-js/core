@@ -1,0 +1,5 @@
+# need for build
+node_modules
+
+# created after build
+lib
